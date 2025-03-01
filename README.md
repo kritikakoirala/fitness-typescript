@@ -28,3 +28,5 @@ The application consists of multiple sections, including:
 - **Classes Section** – Displaying various fitness classes using an intuitive card layout.
 - **Testimonials** – User feedback section with dynamic transitions.
 - **Footer & Navigation** – A well-structured, accessible navigation system.
+
+You can view the live demo of the site here: [https://kritika-evogym.netlify.app/]
