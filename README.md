@@ -1,32 +1,61 @@
-# Fitness Application
+# 💪 EvoGym – Fitness Web Application
 
-This is a modern, responsive fitness application built using **React** and **TypeScript**. The project includes implementing a clean and engaging UI with smooth animations and interactive elements. It is designed to provide an intuitive and aesthetically pleasing user experience, making it ideal for fitness enthusiasts and developers looking to build dynamic web applications.
+[![Built with](https://img.shields.io/badge/Built%20with-React%20%26%20TypeScript-61DAFB?style=flat-square&logo=react)](https://react.dev/)
+[![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)](LICENSE)
 
-## Features
+**Kritika EvoGym** is a modern, responsive fitness web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**. The app is designed to provide an engaging and intuitive user experience for fitness enthusiasts. It features sleek animations, reusable components, and a modular architecture suitable for learners and developers alike.
 
-- **Modern UI/UX** – A sleek and visually appealing design with a responsive layout.
-- **TypeScript Integration** – Strongly typed code for better maintainability and reliability.
-- **Framer Motion Animations** – Smooth animations to enhance user interaction.
-- **Tailwind CSS for Styling** – Utility-first styling for rapid development and responsiveness.
-- **Reusable Components** – Modular and well-structured component-based architecture.
+> 🔗 **Live Demo:** [https://kritika-evogym.netlify.app](https://kritika-evogym.netlify.app)
 
-## Technologies Used
+---
+## 📌 Disclaimer
 
-### **Frontend**
-- **React** – A JavaScript library for building interactive user interfaces.
-- **TypeScript** – A superset of JavaScript that provides static typing.
-- **Vite** – A fast and modern frontend tooling for React projects.
-- **Tailwind CSS** – A utility-first CSS framework for designing modern and responsive layouts.
-- **Hero Icons** – A collection of customizable SVG icons used in the UI.
-- **Framer Motion** – A React animation library that adds smooth motion effects.
+- 🧪 This project is **not intended for production use**.
+- 🎨 The design is **not original** and has been used solely to practice frontend development.
+- 💡 Built as a **self-study project** to explore UI development, animation, and responsiveness using modern tooling.
 
-## Project Overview
+---
 
-The application consists of multiple sections, including:
-- **Hero Section** – A visually engaging introduction with animations.
-- **Benefits Section** – A showcase of fitness benefits with interactive UI elements.
-- **Classes Section** – Displaying various fitness classes using an intuitive card layout.
-- **Testimonials** – User feedback section with dynamic transitions.
-- **Footer & Navigation** – A well-structured, accessible navigation system.
+## ✨ Features
 
-You can view the live demo of the site here: [https://kritika-evogym.netlify.app/]
+- ✅ **Modern UI/UX** — Clean, responsive design with user-focused layout.
+- 🛠️ **TypeScript Integration** — Type-safe development for maintainability.
+- 🎬 **Framer Motion** — Smooth and dynamic animations.
+- 🎨 **Tailwind CSS** — Utility-first styling for fast and responsive design.
+- ♻️ **Reusable Components** — Modular structure for scalability.
+- 📱 **Mobile-Ready** — Fully responsive layout across devices.
+
+---
+
+## 🧱 Tech Stack
+
+| Technology     | Purpose                                  |
+|----------------|------------------------------------------|
+| **React**      | UI library for building interactive UIs |
+| **TypeScript** | Static typing and safer code             |
+| **Vite**       | Fast build tool and development server   |
+| **Tailwind CSS** | Utility-first CSS framework           |
+| **Heroicons**  | Scalable SVG icons                       |
+| **Framer Motion** | Smooth animation effects             |
+
+---
+
+## 📦 Project Structure
+
+The app includes the following key sections:
+
+- 🎯 **Hero Section** — Eye-catching intro with call-to-action and animation
+- 💡 **Benefits Section** — Highlights of fitness benefits with visual cards
+- 🏋️ **Classes Section** — Organized class listings using responsive cards
+- 🗣️ **Testimonials** — User feedback with smooth transitions
+- 🔗 **Navigation & Footer** — Accessible and responsive site navigation
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/kritika-evogym.git
+cd kritika-evogym
